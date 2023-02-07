@@ -3,7 +3,7 @@
 
 This course covered methods to improve statistical robustness in low signal to noise environments, explainable machine learning, and methods to avoid common pitfalls while using algorithms to develop and execute trading strategies. Primary material authored by Dr. Marcos Lopez De Prado and course content created by Dr. Ernest (Ernie) Chan.
 - Fractional differentiation - acheiving stationarity without removing all memory from dataset
-- Robust feature engineering (pseudo-randomness does not allow convergence to true feature importances)
+- Robust feature engineering using heirarchical MDA and MDI (pseudo-randomness does not allow convergence to true feature importances)
 - Explainable ML - SHAP, LIME, etc. 
 - Ergodic Theory
 - Combinatorial cross validation (cross validation respecting non-ergodic properties)
