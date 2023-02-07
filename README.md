@@ -1,7 +1,7 @@
 ## Coursework from Northwestern's MS Data Science program
 ## MSDS 451 Financial Machine Learning
 
-This course covered methods to improve statistical robustness in low signal to noise environments, explainable machine learning, and methods to avoid common pitfalls in using algorithms to develop and execute trading strategies. These approaches are especially helpful in financial markets.
+This course covered methods to improve statistical robustness in low signal to noise environments, explainable machine learning, and methods to avoid common pitfalls in using algorithms to develop and execute trading strategies. 
 - Fractional differentiation
 - Robust feature engineering (pseudo-random seeds cause major issues)
 - Explainable ML - SHAP, LIME, etc. 
