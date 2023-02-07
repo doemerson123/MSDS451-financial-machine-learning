@@ -3,7 +3,7 @@
 
 This course covered methods to improve statistical robustness in low signal to noise environments, explainable machine learning, and methods to avoid common pitfalls in using algorithms to develop and execute trading strategies. 
 - Fractional differentiation
-- Robust feature engineering (pseudo-random seeds cause major issues)
+- Robust feature engineering (pseudo-randomness does not allow convergence to true feature importances)
 - Explainable ML - SHAP, LIME, etc. 
 - Ergodic Theory
 - Combinatorial cross validation (cross validation respecting non-ergodic timeseries)
