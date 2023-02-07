@@ -1,19 +1,19 @@
 ## Coursework from Northwestern's MS Data Science program
 ## MSDS 451 Financial Machine Learning
 
-This course covered methods to improve statistical robustness in low signal to noise environments, explainable machine learning, and methods to avoid common pitfalls in using algorithms to develop and execute trading strategies. 
-- Fractional differentiation
+This course covered methods to improve statistical robustness in low signal to noise environments, explainable machine learning, and methods to avoid common pitfalls while using algorithms to develop and execute trading strategies. Primary material authored by Dr. Marcos Lopez De Prado and course content created by Dr. Ernest (Ernie) Chan.
+- Fractional differentiation - acheiving stationarity without removing all memory from dataset
 - Robust feature engineering (pseudo-randomness does not allow convergence to true feature importances)
 - Explainable ML - SHAP, LIME, etc. 
 - Ergodic Theory
-- Combinatorial cross validation (cross validation respecting non-ergodic timeseries)
-- Back testing strategies and pitfalls
+- Combinatorial cross validation (cross validation respecting non-ergodic properties)
+- Backtesting strategies, pitfalls, and how to avoid them
 
 
-| Author of Text (M.L. DePrado) and Course Creator (E. Chan) | Primary Textbook |
-| :--- | :-----------: |
-|![451 course headshots](https://user-images.githubusercontent.com/87036676/217153169-a89936cc-c879-4baf-994a-4a6b6bf25bde.jpg) | ![AFML Cover](https://user-images.githubusercontent.com/87036676/217150942-59ffa1f2-92f3-4f96-8fe2-158b1a522288.jpg) |
-|![image source](https://hudsonthames.org/wp-content/uploads/2021/06/arblab_brochure.pdf)|![image source](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)|
+| Primary Text | Secondary Text | Secondary Text|
+| :-----------: | :-----------: | :---------: |
+| ![AFML Cover](https://user-images.githubusercontent.com/87036676/217150942-59ffa1f2-92f3-4f96-8fe2-158b1a522288.jpg) | ![Machine Trading](https://user-images.githubusercontent.com/87036676/217219544-d941d16f-0bd2-4abf-85c4-e5f29a3d82de.jpg)|![ML for Asset Managers](https://user-images.githubusercontent.com/87036676/217220363-b7611d34-22d2-4eda-8973-9720d96bc1db.jpg)|
+|![image source](https://www.wiley.com/en-us/Advances+in+Financial+Machine+Learning-p-9781119482086)|![image source](https://www.wiley.com/en-us/Machine+Trading:+Deploying+Computer+Algorithms+to+Conquer+the+Markets-p-9781119219606)|![image source](https://www.cambridge.org/core/elements/abs/machine-learning-for-asset-managers/6D9211305EA2E425D33A9F38D0AE3545)|
 
 
 ## Excerpts from the forward in Advances in Financial Machine Learning:
